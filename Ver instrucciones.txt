@@ -1,0 +1,4 @@
+El comercio electrónico, o ecommerce, es la compra y venta de bienes y servicios a través de internet. Es un modelo de negocio que ha crecido de manera exponencial y que ha transformado la forma en que las personas adquieren productos y servicios. 
+El ecommerce implica tener un sitio web con elementos como: Catálogo de productos, Página por cada producto, Carrito de compras, Pasarela de pago.
+
+En este paquete encuentras cada elemento de menú archivo HTML, index de acceso principal, dos archivos css uno con los estilos de cada elemento app.css y otro archivo normalize.css el cual aplica reglas que permiten renderizar el diseño adaptado a diferentes navegadores (observar el manual txt) 
